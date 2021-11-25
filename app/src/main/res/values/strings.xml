@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">RPS GAME</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scissors_icon">gunting computer</string>
+    <string name="computer">computer</string>
+    <string name="rock_icon">rock_icon</string>
+    <string name="paper_icon">paper_icon</string>
+    <string name="versus_image">versus_image</string>
+    <string name="logo_font">Logo</string>
+    <string name="text_winner">WIN !!!</string>
+    <string name="return_play">Main Lagi</string>
+    <string name="back_menu">Kembali Ke Menu</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="playervsplayer">playervsplayer</string>
+    <string name="playervscpu">playervscpu</string>
+    <string name="home">home</string>
+
+    <string name="next">Next</string>
+    <string name="string_close">$string/close</string>
+    <string name="daftar_teman">Daftar Teman</string>
+    <string name="tambah_teman">tambah teman</string>
+    <string name="repassword">Re-Password</string>
+    <string name="email">Email</string>
+    <string name="nama_temanmu">Nama Temanmu</string>
+    <string name="email_temanmu">Email Temanmu</string>
+    <string name="save">Save</string>
+    <string name="nama">Nama</string>
+    <string name="delete">Delete</string>
+    <string name="title">Title</string>
+    <string name="edit">edit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="ivLogoApps">logo apps</string>
+    <string name="tvGameHistory">Game History</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="play_mode">Play mode</string>
+    <string name="result">result</string>
+    <string name="tvEmail">Email</string>
+    <string name="tvPassword">Password</string>
+    <string name="tvSignin">Signin</string>
+    <string name="tvSignup">Signup</string>
+    <string name="ivFotoUser">FotoUser</string>
+    <string name="tvStart">Start</string>
+    <string name="tvMyProfile">My profile</string>
+    <string name="tvMyFriends">My friends</string>
+    <string name="tvSettings">Settings</string>
+    <string name="tvOut">Exit Game</string>
+    <string name="tvSeeInstruction">See the instruction</string>
+    <string name="loading">Loading…</string>
+    <string name="tvPickMode">Mau main RPS Game dengan siapa ?</string>
+    <string name="btChooseMode">Choose Mode</string>
+    <string name="vs">Vs</string>
+    <string name="tvDescription">RPS GAME adalah sebuah game bertemakan batu-gunting-kertas yang sudah sangat Kita kenal. Dalam permainan ini Kita bisa bermain dengan Computer maupun Teman Kita. Selamat bermain dan HAVE FUN !!!</string>
+    <string name="createdBy">Binar Academy ANDROID 9 Group 1</string>
+    <string name="tvSignOut">Signout</string>
+    <string name="tvAbout">About</string>
+    <string name="_0">0</string>
+    <string name="score">score</string>
+    <string name="tvname_friend">Name Friend</string>
+    <string name="tvSelamat">Selamat!</string>
+    <string name="tvKamuPemain">Kamu menjadi pemain dari \nRPS Game</string>
+    <string name="tvInstruction">Video di atas adalah instruksi cara bermain RPS Game. \nSelamat menonton...</string>
+    <string name="date">Date</string>
+
+
+
+</resources>

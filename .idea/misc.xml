@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/background_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/bg_blue.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/bg_box_blue_round.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/bg_box_orange_dark_round.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/bg_box_white_4round.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/bg_box_white_round.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/bg_but_cream.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/bg_but_gray.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/bg_but_gray1.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/bg_but_orange.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/bg_but_orange1.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/bg_but_red.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/bg_et_blue.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/bg_et_gray.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/bg_et_green.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/bg_et_profile.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/bg_et_signinup.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/bg_gray_game.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/bg_green.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/bg_shape1.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/ic_back_blue.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/ic_back_white.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/ic_batu_kanan.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/ic_batu_kiri.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/ic_batu_rob_kanan.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/ic_bt_play_computer.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/ic_bt_play_other.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/ic_close.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/ic_close_white.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/ic_gunting_kanan.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/ic_gunting_kiri.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/ic_gunting_rob_kanan.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/ic_kertas_kanan.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/ic_kertas_kiri.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/ic_kertas_rob_kanan.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/ic_landing_page_1.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/ic_landing_page_2.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/ic_landing_page_3.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/ic_logo_dark.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/ic_logo_white.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable-v24/ic_user.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable/ic_batu.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable/ic_landing_page1.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/drawable/ic_splash_screen2.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/layout/activity_about.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/layout/activity_choose_game_play.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/layout/activity_edit_profile_player.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/layout/activity_game_history.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/layout/activity_instruction.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/layout/activity_landing_page.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/layout/activity_main_menu.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/layout/activity_notif_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/layout/activity_pilih_lawan.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/layout/activity_play_game_vs_computer.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/layout/activity_play_game_vs_player.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/layout/activity_profile_player.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/layout/activity_profile_teman.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/layout/addfriend_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/layout/fragment_second.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/layout/item_skor.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/layout/item_teman.xml" value="0.1" />
+        <entry key="..\:/Users/robby/AndroidStudioProjects/Trial3Chp7/app/src/main/res/layout/result_game_dialog.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
